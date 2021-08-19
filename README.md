@@ -49,6 +49,8 @@ Click the below button to watch the video tutorial on deploying
 
 [![](https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d)](https://t.me/tamilsupport)
 
+
+### More 👨🏻‍💻
 <details>
 <summary>Deploy to VPS 🏃</summary>
 <br>
