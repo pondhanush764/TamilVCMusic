@@ -41,7 +41,7 @@ Click the below button to watch the video tutorial on deploying
 
 ###  GET STRING SESSION FROM REPL RUN
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
+ [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@TamilBots/generate-pyrogram-session-string#main.py)
 
 ### குழுக்கள் மற்றும் ஆதரவு:
 
@@ -168,7 +168,15 @@ If you donlt like to play in linked channel:
 
 </details>
 
+## Made with ❤️ By @TamilBotZ
+
 ### Credits
 #### Special Credits
 - [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
 - [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+
+## All who helped at a glance 
+
+> This project exists thanks to these awesome developers and their codes and contributions.
+
+<a href="https://github.com/TeamDaisyX/DaisyX/graphs/contributors"><img src="https://opencollective.com/teamdaisyxdaisy/contributors.svg?width=890&button=false" /></a>
