@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://telegra.ph/file/c59458f2355b6f3f0f23d.mp4">
-     <img height="200px" src="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
+     <img height="200px" src="https://telegra.ph/file/c59458f2355b6f3f0f23d.mp4">
   </a>
 </p>
 
@@ -43,6 +43,16 @@ Click the below button to watch the video tutorial on deploying
 
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
 
+### குழுக்கள் மற்றும் ஆதரவு:
+
+[![](https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d)](https://t.me/tamiluserbot)
+
+[![](https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d)](https://t.me/tamilsupport)
+
+<details>
+<summary>Deploy to VPS 🏃</summary>
+<br>
+
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
@@ -56,6 +66,12 @@ $ npm i -g npm
 # Start Bot 
 $ python3 -m VCsMusicBot
 ```
+
+</details>
+
+<details>
+<summary>🤩 Features 🥳</summary>
+<br>
 
 ### Features ✅
 
@@ -71,12 +87,24 @@ $ python3 -m VCsMusicBot
 - Channel Music Play
 - Keyboard selection support for YouTube play
 
+</details>
+
+<details>
+<summary>Requirements 📝</summary>
+<br>
+
 ### Requirements 📝
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
+</details>
+
+<details>
+<summary>👨🏻‍💻Commands👨🏻‍💻</summary>
+<br>
 
 ### Commands for Group 👥
 #### For all in group
@@ -137,6 +165,8 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
+
+</details>
 
 ### Credits
 #### Special Credits
